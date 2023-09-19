@@ -13,7 +13,7 @@
     "@types/service-worker-mock": "2.0.1",
     "@whatwg-node/fetch": "0.9.9",
     "@whatwg-node/server": "0.9.5",
-    "esbuild": "0.17.19",
+    "esbuild": "0.19.3",
     "itty-router": "2.6.6",
     "itty-router-extras": "0.4.5",
     "nock": "13.3.3",
